@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/sonic/Projects/tomita/smart/tomato/files/dimensions'
+let g:netrw_dirhist_2='/home/sonic/Projects/tomita/smart/tomato/files'
+let g:netrw_dirhist_3='/home/sonic/Projects/tomita/smart/tomato'
+let g:netrw_dirhist_4='/home/sonic/Projects/tomita/smart'
+let g:netrw_dirhist_5='/home/sonic/Projects/tomita/smart/genfiles'

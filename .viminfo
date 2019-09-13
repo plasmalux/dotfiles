@@ -1,0 +1,1615 @@
+# Этот файл viminfo автоматически создан Vim 8.0.
+# Его можно (осторожно!) редактировать.
+
+# Viminfo version
+|1,4
+
+# Значение опции 'encoding' в момент записи файла
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Последний Шаблон поиска:
+~MSle0~/create_txtf
+
+# Последний Замена Шаблон поиска:
+~MSle0&create_txtf
+
+# Последняя строка для замены:
+$create_txt_file
+
+# Командная строка, история (начиная от свежего к старому):
+:wq
+|2,0,1568398184,,"wq"
+:q!
+|2,0,1568397952,,"q!"
+:q
+|2,0,1568397948,,"q"
+:w
+|2,0,1568397941,,"w"
+:k
+|2,0,1568390386,,"k"
+:sp input.txt
+|2,0,1568388127,,"sp input.txt"
+:term
+|2,0,1568385636,,"term"
+:%s/create_txtf/create_txt_file/g
+|2,0,1568375640,,"%s/create_txtf/create_txt_file/g"
+:%s/pattern_txt_files/pattern_txt_file
+|2,0,1568374797,,"%s/pattern_txt_files/pattern_txt_file"
+:%s/pattern_txtf/pattern_txt_files/g
+|2,0,1568374650,,"%s/pattern_txtf/pattern_txt_files/g"
+:%s/path_txtf/path_txt_files/g
+|2,0,1568374600,,"%s/path_txtf/path_txt_files/g"
+:%s/file_path/path_articles_file/g
+|2,0,1568374199,,"%s/file_path/path_articles_file/g"
+:vsp root_dic.gzt
+|2,0,1568372664,,"vsp root_dic.gzt"
+:wqa
+|2,0,1568387239,,"wqa"
+:vsp kwtypes.proto
+|2,0,1568365595,,"vsp kwtypes.proto"
+:tabnew fact_types.proto
+|2,0,1568365528,,"tabnew fact_types.proto"
+:%s/val_parsed/val_splitted/g
+|2,0,1568363253,,"%s/val_parsed/val_splitted/g"
+:vsp grammar_extract.cxx
+|2,0,1568362756,,"vsp grammar_extract.cxx"
+:%s/400/{1}/g
+|2,0,1568360557,,"%s/400/{1}/g"
+:%s/600/{0}/g
+|2,0,1568360545,,"%s/600/{0}/g"
+:%s/600/{1}/g
+|2,0,1568360524,,"%s/600/{1}/g"
+:%s/res2/resolut2/g
+|2,0,1568358696,,"%s/res2/resolut2/g"
+:%s/res1/resolut1/g
+|2,0,1568358679,,"%s/res1/resolut1/g"
+:s%/res1/resolut1/g
+|2,0,1568358651,,"s%/res1/resolut1/g"
+:s%/res1/resolut1
+|2,0,1568358635,,"s%/res1/resolut1"
+:wa
+|2,0,1568308358,,"wa"
+:в
+|2,0,1568308353,,"в"
+:%s/gen_file/create_file/g
+|2,0,1568305415,,"%s/gen_file/create_file/g"
+:set number
+|2,0,1568296652,,"set number"
+:Explore
+|2,0,1568295632,,"Explore"
+:colorscheme
+|2,0,1568366241,,"colorscheme"
+:mksession ~/toma3.vim
+|2,0,1568217143,,"mksession ~/toma3.vim"
+:vsp dic_main.cxx
+|2,0,1568206869,,"vsp dic_main.cxx"
+:PlugInstall
+|2,0,1568206544,,"PlugInstall"
+:source %
+|2,0,1568206538,,"source %"
+:qa
+|2,0,1568206799,,"qa"
+:mksession ~/toma2.vim
+|2,0,1568206623,,"mksession ~/toma2.vim"
+:source ~/.vimrc
+|2,0,1568206594,,"source ~/.vimrc"
+:Goyo
+|2,0,1568199390,,"Goyo"
+:AirlineTheme
+|2,0,1568199112,,"AirlineTheme"
+:AirlineTheme ayu_mirage
+|2,0,1568198948,,"AirlineTheme ayu_mirage"
+:AirlineTheme ayu_light
+|2,0,1568198930,,"AirlineTheme ayu_light"
+:AirlineTheme ayu_dark
+|2,0,1568198917,,"AirlineTheme ayu_dark"
+:AirlineTheme aurora
+|2,0,1568195989,,"AirlineTheme aurora"
+:AirlineTheme 
+|2,0,1568195981,,"AirlineTheme "
+:AirlineTheme atomic
+|2,0,1568195964,,"AirlineTheme atomic"
+:AirlineTheme angr
+|2,0,1568195955,,"AirlineTheme angr"
+:AirlineTheme alduin
+|2,0,1568195938,,"AirlineTheme alduin"
+:NERDTree
+|2,0,1568199536,,"NERDTree"
+:!xrandr --output eDP-1 --brightness 0.8
+|2,0,1568198854,,"!xrandr --output eDP-1 --brightness 0.8"
+
+# Строка поиска, история (начиная от свежего к старому):
+? create_txtf
+|2,1,1568375640,,"create_txtf"
+? \<create_txtf\>
+|2,1,1568375597,,"\\<create_txtf\\>"
+? pattern_txt_files
+|2,1,1568374797,,"pattern_txt_files"
+? pattern_txtf
+|2,1,1568374650,,"pattern_txtf"
+? \<pattern_txtf\>
+|2,1,1568374618,,"\\<pattern_txtf\\>"
+? path_txtf
+|2,1,1568374600,,"path_txtf"
+? \<path_txtf\>
+|2,1,1568374529,,"\\<path_txtf\\>"
+? \<path_articles_file\>
+|2,1,1568374414,,"\\<path_articles_file\\>"
+? file_path
+|2,1,1568374199,,"file_path"
+? \<file_path\>
+|2,1,1568373865,,"\\<file_path\\>"
+?/path_dic
+|2,1,1568373860,47,"path_dic"
+? \<create_file\>
+|2,1,1568373639,,"\\<create_file\\>"
+? \<pattern_dic\>
+|2,1,1568373214,,"\\<pattern_dic\\>"
+? \<files\>
+|2,1,1568372971,,"\\<files\\>"
+?/@x
+|2,1,1568378595,47,"@x"
+?/\D
+|2,1,1568380076,47,"\\D"
+?/0,
+|2,1,1568379488,47,"0,"
+?/x
+|2,1,1568379481,47,"x"
+?/ x
+|2,1,1568379478,47," x"
+?/x,
+|2,1,1568379445,47,"x,"
+? val_parsed
+|2,1,1568363253,,"val_parsed"
+? \<val_parsed\>
+|2,1,1568363166,,"\\<val_parsed\\>"
+? 400
+|2,1,1568360557,,"400"
+? 600
+|2,1,1568360545,,"600"
+? \<resolut1\>
+|2,1,1568359379,,"\\<resolut1\\>"
+? res2
+|2,1,1568358696,,"res2"
+? res1
+|2,1,1568358679,,"res1"
+? /res1/resolut1/g
+|2,1,1568358651,,"/res1/resolut1/g"
+? /res1/resolut1
+|2,1,1568358635,,"/res1/resolut1"
+? \<res1\>
+|2,1,1568358523,,"\\<res1\\>"
+? gen_file
+|2,1,1568305415,,"gen_file"
+?/pattern
+|2,1,1568304482,47,"pattern"
+?/{
+|2,1,1568299379,47,"{"
+? @$
+|2,1,1568295643,,"@$"
+? \<inputfile\>
+|2,1,1568280877,,"\\<inputfile\\>"
+? \<datafile\>
+|2,1,1568280434,,"\\<datafile\\>"
+?/Year
+|2,1,1568038294,47,"Year"
+? DimensionsAll
+|2,1,1568021977,,"DimensionsAll"
+? DimensionVal
+|2,1,1568021959,,"DimensionVal"
+? параметр
+|2,1,1568020992,,"параметр"
+? \<DimensionValuesAll\>
+|2,1,1568020906,,"\\<DimensionValuesAll\\>"
+?/Kazak
+|2,1,1568020662,47,"Kazak"
+?/ра
+|2,1,1568020627,47,"ра"
+?/раз
+|2,1,1568020624,47,"раз"
+?/разр
+|2,1,1568020619,47,"разр"
+?/л
+|2,1,1568020600,47,"л"
+?/э
+|2,1,1568020594,47,"э"
+?/экран
+|2,1,1568020589,47,"экран"
+?/разреш
+|2,1,1568020577,47,"разреш"
+? \<DimensionValues\>
+|2,1,1568020221,,"\\<DimensionValues\\>"
+
+# Выражение, история (начиная от свежего к старому):
+
+# Строка ввода, история (начиная от свежего к старому):
+@/home/sonic/Projects/tomita/smart/pomidor/grammar_tips.cxx
+|2,3,1563205267,,"/home/sonic/Projects/tomita/smart/pomidor/grammar_tips.cxx"
+
+# Debug Line, история (начиная от свежего к старому):
+
+# Регистры:
+"0	CHAR	0
+	DimensionValuesAll "параметр_разрешение_экрана_1000x400"
+	{
+	    key = { "files/dimension_values/dimension_resolution/1000x400.txt" type=FILE }
+	    lemma = "resolution=@1000x400"
+	}
+|3,0,0,0,5,0,1568387844,"DimensionValuesAll \"параметр_разрешение_экрана_1000x400\"","{","    key = { \"files/dimension_values/dimension_resolution/1000x400.txt\" type=FILE }","    lemma = \"resolution=@1000x400\"","}"
+""1	LINE	0
+	
+|3,1,1,1,1,0,1568398182,""
+"2	LINE	0
+	!.i3/
+|3,0,2,1,1,0,1568398098,"!.i3/"
+"3	LINE	0
+	
+|3,0,3,1,1,0,1568392819,""
+"4	LINE	0
+	
+|3,0,4,1,1,0,1568392818,""
+"5	LINE	0
+	
+|3,0,5,1,1,0,1568392771,""
+"6	CHAR	0
+	input.txt
+	output.txt
+	rules.txt
+	temp/input_exceptions.txt
+	temp/input_tips.txt
+	temp/output_exceptions.txt
+	temp/output_tips.txt
+	tree.txt
+|3,0,6,0,8,0,1568390959,"input.txt","output.txt","rules.txt","temp/input_exceptions.txt","temp/input_tips.txt","temp/output_exceptions.txt","temp/output_tips.txt","tree.txt"
+"7	LINE	0
+	*.txt
+|3,0,7,1,1,0,1568390694,"*.txt"
+"8	BLOCK	7
+	        
+	        
+	        
+	        
+|3,0,8,2,4,7,1568390690,"        ","        ","        ","        "
+"9	LINE	0
+	*.txt
+|3,0,9,1,1,0,1568389542,"*.txt"
+"j	CHAR	0
+	 
+|3,0,19,0,1,0,1568043078," "
+"k	CHAR	0
+	459
+<jjkkkkkkkkkkkkkjjjjjlllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh:Exp	:q:sp 			:q:e Pr	tom	l	im	fact_types.protoiii�kbmo�kbport "base.proto"imporot�kb�kb�kb�kbort �KA�kb"facttypes_a�kbbase.proto"message Org: NFactTye�kbpe.TFact �kb{	requре�kb�kbred jk�kb�kbstring Name = 1;�kb}`�kb:w�kb�kb:wkjkllllliillllllllk
+|3,0,20,0,1,0,1562680258,>462
+|<"jjkkkkkkkkkkkkkjjjjjlllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh:Exp	:q:sp 			:q:e Pr	tom	l	im	fact_types.protoiii�kbmo�kbport \"base.proto\"imporot�kb�kb�kb�kbort �KA�kb\"facttypes_a�kbbase.proto\"message Org: NFactTye�kbpe.TFact �kb{	requре�kb�kbred jk�kb�kbstring Name = 1;�kb}`�kb:w�kb�kb:wkjkllllliillllllllk"
+"-	CHAR	0
+	d
+|3,0,36,0,1,0,1568396787,"d"
+
+# Глобальные отметки:
+'0  1  0  ~/.dotfiles/.gitignore
+|4,48,1,0,1568398184,"~/.dotfiles/.gitignore"
+'1  1  0  ~/.dotfiles/.gitignore
+|4,49,1,0,1568398100,"~/.dotfiles/.gitignore"
+'2  2  1  ~/.dotfiles/.gitignore
+|4,50,2,1,1568397963,"~/.dotfiles/.gitignore"
+'3  2  1  ~/.dotfiles/.gitignore
+|4,51,2,1,1568397963,"~/.dotfiles/.gitignore"
+'4  2  1  ~/.dotfiles/.gitignore
+|4,52,2,1,1568397963,"~/.dotfiles/.gitignore"
+'5  2  1  ~/.dotfiles/.gitignore
+|4,53,2,1,1568397963,"~/.dotfiles/.gitignore"
+'6  2  0  ~/.dotfiles/.gitignore
+|4,54,2,0,1568397952,"~/.dotfiles/.gitignore"
+'7  2  0  ~/.dotfiles/.gitignore
+|4,55,2,0,1568397952,"~/.dotfiles/.gitignore"
+'8  2  0  ~/.dotfiles/.gitignore
+|4,56,2,0,1568397952,"~/.dotfiles/.gitignore"
+'9  2  0  ~/.dotfiles/.gitignore
+|4,57,2,0,1568397952,"~/.dotfiles/.gitignore"
+
+# Список прыжков (сначала более свежие):
+-'  1  0  ~/.dotfiles/.gitignore
+|4,39,1,0,1568398184,"~/.dotfiles/.gitignore"
+-'  1  0  ~/.dotfiles/.gitignore
+|4,39,1,0,1568398100,"~/.dotfiles/.gitignore"
+-'  2  1  ~/.dotfiles/.gitignore
+|4,39,2,1,1568397963,"~/.dotfiles/.gitignore"
+-'  2  1  ~/.dotfiles/.gitignore
+|4,39,2,1,1568397963,"~/.dotfiles/.gitignore"
+-'  2  1  ~/.dotfiles/.gitignore
+|4,39,2,1,1568397963,"~/.dotfiles/.gitignore"
+-'  1  0  ~/.dotfiles/.gitignore
+|4,39,1,0,1568397958,"~/.dotfiles/.gitignore"
+-'  2  0  ~/.dotfiles/.gitignore
+|4,39,2,0,1568397952,"~/.dotfiles/.gitignore"
+-'  1  0  ~/.dotfiles/.gitignore
+|4,39,1,0,1568397877,"~/.dotfiles/.gitignore"
+-'  21  0  ~/NERD_tree_1
+|4,39,21,0,1568397867,"~/NERD_tree_1"
+-'  21  0  ~/NERD_tree_1
+|4,39,21,0,1568397867,"~/NERD_tree_1"
+-'  21  0  ~/NERD_tree_1
+|4,39,21,0,1568397867,"~/NERD_tree_1"
+-'  21  0  ~/NERD_tree_1
+|4,39,21,0,1568397867,"~/NERD_tree_1"
+-'  21  0  ~/NERD_tree_1
+|4,39,21,0,1568397867,"~/NERD_tree_1"
+-'  21  0  ~/NERD_tree_1
+|4,39,21,0,1568397867,"~/NERD_tree_1"
+-'  21  0  ~/NERD_tree_1
+|4,39,21,0,1568397867,"~/NERD_tree_1"
+-'  21  0  ~/NERD_tree_1
+|4,39,21,0,1568397867,"~/NERD_tree_1"
+-'  21  0  ~/NERD_tree_1
+|4,39,21,0,1568397867,"~/NERD_tree_1"
+-'  21  0  ~/NERD_tree_1
+|4,39,21,0,1568397867,"~/NERD_tree_1"
+-'  21  0  ~/NERD_tree_1
+|4,39,21,0,1568397867,"~/NERD_tree_1"
+-'  21  0  ~/NERD_tree_1
+|4,39,21,0,1568397867,"~/NERD_tree_1"
+-'  21  0  ~/NERD_tree_1
+|4,39,21,0,1568397867,"~/NERD_tree_1"
+-'  21  0  ~/NERD_tree_1
+|4,39,21,0,1568397867,"~/NERD_tree_1"
+-'  21  0  ~/NERD_tree_1
+|4,39,21,0,1568397867,"~/NERD_tree_1"
+-'  21  0  ~/NERD_tree_1
+|4,39,21,0,1568397867,"~/NERD_tree_1"
+-'  51  2  ~/NERD_tree_1
+|4,39,51,2,1568397858,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1568397858,"~/NERD_tree_1"
+-'  51  2  ~/NERD_tree_1
+|4,39,51,2,1568397858,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1568397858,"~/NERD_tree_1"
+-'  51  2  ~/NERD_tree_1
+|4,39,51,2,1568397858,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1568397858,"~/NERD_tree_1"
+-'  51  2  ~/NERD_tree_1
+|4,39,51,2,1568397858,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1568397858,"~/NERD_tree_1"
+-'  51  2  ~/NERD_tree_1
+|4,39,51,2,1568397858,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1568397858,"~/NERD_tree_1"
+-'  51  2  ~/NERD_tree_1
+|4,39,51,2,1568397858,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1568397858,"~/NERD_tree_1"
+-'  51  2  ~/NERD_tree_1
+|4,39,51,2,1568397858,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1568397858,"~/NERD_tree_1"
+-'  51  2  ~/NERD_tree_1
+|4,39,51,2,1568397858,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1568397858,"~/NERD_tree_1"
+-'  51  2  ~/NERD_tree_1
+|4,39,51,2,1568397858,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1568397858,"~/NERD_tree_1"
+-'  51  2  ~/NERD_tree_1
+|4,39,51,2,1568397858,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1568397858,"~/NERD_tree_1"
+-'  51  2  ~/NERD_tree_1
+|4,39,51,2,1568397858,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1568397858,"~/NERD_tree_1"
+-'  51  2  ~/NERD_tree_1
+|4,39,51,2,1568397858,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1568397858,"~/NERD_tree_1"
+-'  51  2  ~/NERD_tree_1
+|4,39,51,2,1568397858,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1568397858,"~/NERD_tree_1"
+-'  51  2  ~/NERD_tree_1
+|4,39,51,2,1568397858,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1568397858,"~/NERD_tree_1"
+-'  51  2  ~/NERD_tree_1
+|4,39,51,2,1568397858,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1568397858,"~/NERD_tree_1"
+-'  51  2  ~/NERD_tree_1
+|4,39,51,2,1568397858,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1568397858,"~/NERD_tree_1"
+-'  2  3  ~/.dotfiles/.gitignore
+|4,39,2,3,1568397717,"~/.dotfiles/.gitignore"
+-'  2  3  ~/.dotfiles/.gitignore
+|4,39,2,3,1568397717,"~/.dotfiles/.gitignore"
+-'  1  0  ~/.dotfiles/.gitignore
+|4,39,1,0,1568397692,"~/.dotfiles/.gitignore"
+-'  1  0  ~/.dotfiles/.gitignore
+|4,39,1,0,1568397692,"~/.dotfiles/.gitignore"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+-'  4  9  ~/.bash_aliases
+|4,39,4,9,1568396793,"~/.bash_aliases"
+
+# История местных отметок (от более свежих к старым):
+
+> ~/.dotfiles/.gitignore
+	*	1568398182	0
+	"	1	0
+	.	2	0
+	+	2	0
+
+> ~/NERD_tree_1
+	*	1568397864	0
+	"	21	0
+	.	1	0
+	+	1	0
+
+> ~/.bash_aliases
+	*	1568396792	0
+	"	4	9
+	^	4	10
+	.	4	9
+	+	4	9
+
+> ~/.gitignore
+	*	1568394575	0
+	"	2	6
+	^	2	7
+	.	2	6
+	+	2	6
+
+> ~/Projects/tomita/smart/tomato/.gitignore
+	*	1568393905	0
+	"	1	0
+	^	5	5
+	.	5	5
+	+	5	0
+	+	5	15
+	+	5	0
+	+	5	5
+
+> ~/.Xresources
+	*	1568393231	0
+	"	1	0
+	^	5	1
+	.	5	0
+	+	2	5
+	+	3	26
+	+	5	26
+	+	5	29
+	+	2	1
+	+	5	13
+	+	5	0
+	+	5	25
+	+	5	0
+	+	1	7
+	+	5	8
+	+	5	0
+	+	5	1
+	+	5	35
+	+	5	23
+	+	5	0
+	+	5	1
+	+	5	20
+	+	5	1
+	+	5	20
+	+	5	8
+	+	5	14
+	+	5	1
+	+	5	0
+	+	5	43
+	+	5	0
+	+	5	55
+	+	5	52
+	+	5	29
+	+	1	0
+	+	6	55
+	+	5	0
+
+> ~/Projects/tomita/smart/tomato/README.md
+	*	1568392819	0
+	"	34	0
+	^	34	0
+	.	34	0
+	+	34	0
+
+> ~/Projects/tomita/smart/tomato/files/dinamics/dinamic_up.txt
+	*	1568392772	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/Projects/tomita/smart/tomato/genfiles.py
+	*	1568389025	0
+	"	43	0
+	^	69	29
+	.	69	29
+	+	50	32
+	+	12	71
+	+	50	28
+	+	12	64
+	+	50	21
+	+	61	14
+	+	48	15
+	+	49	6
+	+	51	13
+	+	48	18
+	+	49	47
+	+	50	5
+	+	53	0
+	+	52	21
+	+	5	56
+	+	8	0
+	+	20	11
+	+	62	23
+	+	54	11
+	+	59	11
+	+	54	12
+	+	48	2
+	+	49	11
+	+	51	11
+	+	59	22
+	+	60	14
+	+	72	17
+	+	61	36
+	+	49	0
+	+	4	0
+	+	7	0
+	+	6	18
+	+	74	0
+	+	6	2
+	+	4	20
+	+	6	9
+	+	5	0
+	+	20	0
+	+	56	127
+	+	57	0
+	+	56	116
+	+	12	33
+	+	25	0
+	+	56	112
+	+	65	13
+	+	60	0
+	+	65	14
+	+	68	0
+	+	69	29
+
+> ~/Projects/tomita/smart/tomato/dimensionvalues_resolution_dic.gzt
+	*	1568389013	0
+	"	7	0
+	.	7	0
+	+	6	0
+	+	6	36
+	+	6	24
+	+	7	0
+	+	9822	0
+	+	9823	77
+	+	9825	63
+	+	9826	29
+	+	9825	67
+	+	7	1
+	+	7	24
+	+	7	61
+	+	7	17
+	+	7	0
+
+> ~/Projects/tomita/smart/tomato/input.txt
+	*	1568388660	0
+	"	1	214
+	^	1	231
+	.	1	214
+	+	1	29
+	+	1	255
+	+	1	318
+	+	1	177
+	+	1	120
+	+	1	191
+	+	1	10
+	+	1	254
+	+	1	0
+	+	1	205
+	+	1	0
+	+	1	214
+
+> ~/Projects/tomita/smart/tomato/files/dimension_values/dimension_resolution/TEST_1000x400.txt
+	*	1568388594	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
+
+> ~/Projects/tomita/smart/tomato/files/dimension_values/dimension_resolution/1000x400.txt
+	*	1568388470	0
+	"	1	5
+	^	1	6
+	.	1	5
+	+	1	5
+
+> ~/Projects/tomita/smart/tomato/grammar_extract.cxx
+	*	1568387221	0
+	"	125	14
+	^	126	1
+	.	126	0
+	+	5	207
+	+	5	253
+	+	5	309
+	+	5	310
+	+	5	365
+	+	5	0
+	+	8	59
+	+	8	14
+	+	8	23
+	+	8	31
+	+	8	1
+	+	8	0
+	+	8	17
+	+	8	2
+	+	8	1
+	+	8	33
+	+	8	69
+	+	8	34
+	+	8	0
+	+	6	0
+	+	4	0
+	+	8	33
+	+	8	56
+	+	8	34
+	+	8	35
+	+	8	33
+	+	8	34
+	+	8	33
+	+	8	0
+	+	8	57
+	+	8	98
+	+	8	22
+	+	8	0
+	+	228	0
+	+	209	0
+	+	125	2
+	+	126	0
+	+	6	4
+	+	6	3
+	+	210	37
+	+	210	2
+	+	210	0
+	+	228	0
+	+	210	0
+	+	210	4
+	+	6	0
+	+	7	0
+	+	123	0
+	+	124	0
+	+	118	0
+	+	123	0
+	+	125	0
+	+	126	0
+	+	210	0
+	+	130	59
+	+	130	61
+	+	131	0
+	+	136	25
+	+	136	0
+	+	136	51
+	+	131	5
+	+	136	33
+	+	134	23
+	+	135	0
+	+	134	35
+	+	132	121
+	+	134	0
+	+	135	0
+	+	134	12
+	+	135	0
+	+	134	10
+	+	135	33
+	+	136	23
+	+	132	87
+	+	136	0
+	+	132	1
+	+	133	0
+	+	125	25
+	+	133	1
+	+	134	1
+	+	135	1
+	+	131	1
+	+	136	0
+	+	125	0
+	+	126	0
+	+	126	123
+	+	127	0
+	+	126	107
+	+	126	14
+	+	126	107
+	+	126	200
+	+	126	159
+	+	125	0
+	+	153	0
+	+	126	113
+	+	126	47
+	+	129	1
+	+	129	0
+	+	126	0
+	a	127	87
+	c	125	17
+	e	130	0
+	i	19	29
+	j	133	0
+
+> ~/Projects/tomita/smart/tomato/files/dimension_values/dimension_resolution/unknown.cxx
+	*	1568386869	0
+	"	3	0
+	^	2	0
+	.	1	16
+	+	3	28
+	+	1	16
+
+> ~/Projects/tomita/smart/tomato/t
+	*	1568380258	0
+	"	1614	0
+
+> ~/Projects/tomita/smart/dims.csv
+	*	1568379516	0
+	"	1474	7
+	.	1	0
+	+	1	0
+
+> ~/Projects/tomita/smart/tomato/files/dimension_values/dimension_AdDeviceType_c.txt
+	*	1568377943	0
+	"	1	0
+
+> ~/Projects/tomita/smart/tomato/root_dic.gzt
+	*	1568374986	0
+	"	9	34
+	^	9	35
+	.	9	34
+	+	15	0
+	+	9	34
+
+> ~/Projects/tomita/smart/tomato/periods_dic.gzt
+	*	1568372778	0
+	"	1	0
+
+> ~/Projects/tomita/smart/tomato/.grammar_extract.cxx.swo
+	*	1568370993	0
+	"	1	0
+
+> ~/Projects/tomita/smart/tomato/dimensionvalues_dic.gzt
+	*	1568370648	0
+	"	626	4
+	.	627	0
+	+	627	0
+	+	627	59
+	+	627	64
+	+	627	31
+	+	627	0
+	+	627	14
+	+	627	0
+	+	627	13
+	+	627	0
+	+	627	26
+	+	627	0
+	+	627	20
+	+	627	19
+	+	627	53
+	+	627	13
+	+	627	41
+	+	627	0
+	+	627	39
+	+	627	16
+	+	627	15
+	+	627	0
+	+	627	68
+	+	627	13
+	+	627	0
+	+	627	47
+	+	627	0
+	+	627	48
+	+	627	0
+	+	627	57
+	+	615	0
+	+	627	0
+	+	613	0
+	+	627	81
+	+	627	0
+	+	627	77
+	+	627	57
+	+	627	40
+	+	627	52
+	+	627	63
+	+	627	0
+
+> ~/Projects/tomita/smart/genfiles/genfiles.py
+	*	1568370612	0
+	"	7	53
+	^	57	41
+	.	27	0
+	+	8	26
+	+	43	0
+	+	68	11
+	+	46	5
+	+	43	14
+	+	51	25
+	+	47	12
+	+	51	12
+	+	49	11
+	+	51	43
+	+	69	12
+	+	7	76
+	+	51	51
+	+	53	0
+	+	69	0
+	+	53	0
+	+	55	0
+	+	53	0
+	+	51	49
+	+	5	94
+	+	7	58
+	+	8	25
+	+	7	104
+	+	8	0
+	+	7	3
+	+	3	0
+	+	8	102
+	+	8	10
+	+	52	0
+	+	51	4
+	+	52	53
+	+	6	0
+	+	7	0
+	+	9	0
+	+	6	19
+	+	10	0
+	+	44	0
+	+	5	14
+	+	6	0
+	+	51	38
+	+	42	2
+	+	42	0
+	+	16	15
+	+	13	20
+	+	15	28
+	+	16	13
+	+	55	0
+	+	57	6
+	+	66	0
+	+	55	0
+	+	54	13
+	+	57	14
+	+	57	25
+	+	58	12
+	+	57	44
+	+	57	101
+	+	58	0
+	+	57	37
+	+	2	8
+	+	15	0
+	+	57	37
+	+	57	0
+	+	56	15
+	+	57	46
+	+	15	22
+	+	16	7
+	+	13	28
+	+	4	12
+	+	14	34
+	+	17	0
+	+	42	0
+	+	18	6
+	+	57	60
+	+	41	12
+	+	19	0
+	+	43	7
+	+	66	0
+	+	55	20
+	+	57	0
+	+	63	36
+	+	65	45
+	+	66	19
+	+	50	25
+	+	55	16
+	+	51	58
+	+	64	0
+	+	65	0
+	+	64	40
+	+	65	27
+	+	67	0
+	+	66	29
+	+	50	19
+	+	51	57
+	+	55	25
+	+	56	37
+	+	57	40
+	+	63	0
+	+	26	0
+	+	27	0
+
+> ~/Projects/tomita/smart/genfiles/articles.gzt
+	*	1568366245	0
+	"	18	0
+
+> ~/Projects/tomita/smart/genfiles/1000x677.txt
+	*	1568365901	0
+	"	7	0
+
+> ~/Projects/tomita/smart/tomato/kwtypes.proto
+	*	1568365674	0
+	"	14	0
+	^	5	1
+	.	5	0
+	+	12	0
+	+	39	52
+	+	40	46
+	+	41	50
+	+	43	46
+	+	44	46
+	+	49	40
+	+	98	55
+	+	111	51
+	+	38	50
+	+	45	0
+	+	60	0
+	+	1	0
+	+	58	0
+	+	6	0
+	+	5	14
+	+	5	13
+	+	5	0
+
+> ~/Projects/tomita/smart/tomato/fact_types.proto
+	*	1568365543	0
+	"	16	0
+	^	45	0
+	.	45	0
+	+	46	32
+	+	16	8
+	+	8	7
+	+	9	0
+	+	47	0
+	+	53	0
+	+	6	0
+	+	49	0
+	+	55	0
+	+	9	34
+	+	11	41
+	+	12	34
+	+	13	35
+	+	16	33
+	+	18	34
+	+	20	33
+	+	22	34
+	+	27	41
+	+	33	42
+	+	34	35
+	+	35	36
+	+	36	34
+	+	38	35
+	+	39	36
+	+	40	34
+	+	42	41
+	+	43	41
+	+	44	40
+	+	51	27
+	+	57	28
+	+	46	0
+	+	26	0
+	+	7	0
+	+	45	0
+
+> ~/Projects/tomita/smart/tomato/files/dimension_values/dimension_resolution_600x400.txt
+	*	1568362609	0
+	"	5	0
+	^	29	13
+	.	29	12
+	+	11	0
+	+	2	8
+	+	5	9
+	+	11	7798
+	+	4	0
+	+	11	12
+	+	12	6
+	+	28	8
+	+	25	8
+	+	27	0
+	+	29	12
+
+> ~/Projects/tomita/smart/genfiles/1000x400.txt
+	*	1568361059	0
+	"	18	0
+
+> ~/Projects/tomita/tomita-parser/examples/tutorial5/animals_dict.gzt
+	*	1568296607	0
+	"	4	4
+
+> ~/Projects/tomita/smart/tomato/dimensions_dic.gzt
+	*	1568295740	0
+	"	224	13
+	^	283	40
+	.	227	0
+	+	280	0
+	+	281	41
+	+	283	57
+	+	284	36
+	+	281	48
+	+	283	39
+	+	227	0
+	a	221	15
+
+> ~/Projects/tomita/smart/tomato/files/dimensions/dimension_resolution.txt
+	*	1568295620	0
+	"	1	0
+	.	1	0
+	+	4	0
+	+	1	0
+
+> ~/Projects/tomita/smart/genfiles/smalldims.csv
+	*	1568281600	0
+	"	1	0
+	.	4	0
+	+	4	0
+
+> ~/Projects/tomita/smart/tomato/dic_main.cxx
+	*	1568273760	0
+	"	177	0
+	^	4	1
+	.	159	0
+	+	48	27
+	+	101	44
+	+	102	46
+	+	103	40
+	+	104	44
+	+	106	40
+	+	107	40
+	+	4	0
+	+	116	54
+	+	117	56
+	+	118	50
+	+	119	54
+	+	121	50
+	+	122	50
+	+	131	50
+	+	132	52
+	+	133	46
+	+	134	50
+	+	136	46
+	+	137	46
+	+	158	30
+	+	159	0
+
+> ~/Projects/tomita/tomita-parser/docs/ru/dg/all-labels-list.md
+	*	1568217236	0
+	"	30	0
+
+> ~/Projects/tomita/smart/tomato/output.txt
+	*	1568206950	0
+	"	36	2
+	^	13	1
+	.	13	0
+	+	13	0
+
+> ~/Projects/tomita/smart/tomato/grammar_exceptions.cxx
+	*	1568206705	0
+	"	1	0
+
+> ~/Projects/tomita/smart/tomato/grammar_tips.cxx
+	*	1568206705	0
+	"	1	0
+
+> ~/.vimrc
+	*	1568206566	0
+	"	60	0
+	^	56	5
+	.	56	5
+	+	3	24
+	+	3	17
+	+	3	0
+	+	3	18
+	+	3	30
+	+	3	33
+	+	3	34
+	+	3	2
+	+	3	0
+	+	3	37
+	+	3	32
+	+	3	0
+	+	1	18
+	+	1	58
+	+	3	1
+	+	6	0
+	+	42	16
+	+	5	2
+	+	2	0
+	+	43	0
+	+	43	59
+	+	57	16
+	+	46	31
+	+	43	58
+	+	47	0
+	+	43	0
+	+	44	0
+	+	43	73
+	+	5	0
+	+	4	0
+	+	57	0
+	+	3	3
+	+	51	25
+	+	48	2
+	+	53	0
+	+	55	1
+	+	41	1
+	+	38	1
+	+	35	1
+	+	32	1
+	+	29	1
+	+	26	1
+	+	22	1
+	+	19	1
+	+	16	1
+	+	13	1
+	+	11	1
+	+	7	1
+	+	8	1
+	+	3	3
+	+	52	29
+	+	57	0
+	+	5	0
+	+	54	4
+	+	55	0
+	+	61	24
+	+	62	17
+	+	63	11
+	+	62	30
+	+	56	5
+
+> ~/Projects/tomita/tomita-parser/src/util/system/datetime.h
+	*	1568202523	0
+	"	14	0
+
+> ~/Projects/tomita/tomita-parser/src/util/datetime/base.h
+	*	1568202487	0
+	"	1	0
+
+> ~/Projects/tomita/tomita-parser/src/util/datetime/base.cpp
+	*	1568202397	0
+	"	50	0
+
+> ~/Projects/tomita/tomita-parser/docs/ru/dg/gazetteer-syntax.md
+	*	1568199969	0
+	"	1	0
+
+> ~/Projects/tomita/tomita-parser/docs/ru/dg/grammemes-values.md
+	*	1568199969	0
+	"	1	0
+
+> ~/Projects/tomita/tomita-parser/docs/ru/dg/interpretation.md
+	*	1568199969	0
+	"	1	0
+
+> ~/Projects/tomita/tomita-parser/docs/ru/dg/debug-grammar.md
+	*	1568199968	0
+	"	1	0
+
+> ~/Projects/tomita/tomita-parser/docs/ru/dg/example.md
+	*	1568199968	0
+	"	1	0
+
+> ~/Projects/tomita/tomita-parser/docs/ru/dg/labels-limits.md
+	*	1568199653	0
+	"	1	0
+
+> ~/Projects/tomita/tomita-parser/docs/ru/dg/link.md
+	*	1568199653	0
+	"	1	0
+
+> ~/Projects/tomita/tomita-parser/docs/ru/dg/overview.md
+	*	1568199653	0
+	"	1	0
+
+> ~/Projects/tomita/tomita-parser/docs/ru/dg/README.md
+	*	1568199653	0
+	"	1	0
+
+> ~/Projects/tomita/tomita-parser/docs/ru/dg/rules.md
+	*	1568199653	0
+	"	1	0
+
+> ~/Projects/tomita/tomita-parser/docs/ru/dg/run-parser.md
+	*	1568199653	0
+	"	1	0
+
+> ~/Projects/tomita/tomita-parser/docs/ru/dg/syntax-grammars.md
+	*	1568199653	0
+	"	1	0
+
+> ~/Projects/tomita/tomita-parser/docs/ru/dg/syntax-labels.md
+	*	1568199653	0
+	"	1	0
+
+> ~/Projects/tomita/tomita-parser/docs/ru/dg/terminals-list.md
+	*	1568199653	0
+	"	1	0
+
+> ~/Projects/tomita/tomita-parser/docs/ru/dg/unobvious-solutions.md
+	*	1568199653	0
+	"	1	0
+
+> ~/Projects/tomita/smart/tomato/NERD_tree_2
+	*	1568199617	0
+	"	27	0
+	.	1	0
+	+	1	0
+
+> ~/Projects/tomita/smart/tomato/NERD_tree_1
+	*	1568199433	0
+	"	24	0
+	.	1	0
+	+	1	0
+
+> ~/.bashrc
+	*	1568199132	0
+	"	136	0
+	.	137	0
+	+	137	0
+
+> ~/.i3/config
+	*	1568198877	0
+	"	166	42
+	^	45	65
+	.	166	42
+	+	39	1
+	+	40	29
+	+	180	69
+	+	179	7
+	+	180	15
+	+	181	15
+	+	158	0
+	+	34	0
+	+	33	1
+	+	34	29
+	+	163	18
+	+	163	27
+	+	163	21
+	+	164	38
+	+	165	20
+	+	168	15
+	+	167	36
+	+	168	36
+	+	169	0
+	+	170	25
+	+	171	42
+	+	170	51
+	+	171	39
+	+	17	0
+	+	38	0
+	+	45	0
+	+	166	42
+
+> ~/data/xcolors/Xresources/Chalk
+	*	1568193291	0
+	"	41	0
+
+> ~/Projects/tomita/learn/imeni/dic.gzt
+	*	1568043566	0
+	"	6	0
+
+> ~/Projects/tomita/learn/imeni/imeni.cxx
+	*	1568043562	0
+	"	8	0
+
+> ~/Projects/tomita/learn/imeni/surnames.gzt
+	*	1568043556	0
+	"	5	0
+
+> ~/Projects/tomita/learn/imeni/kwtypes.proto
+	*	1568043540	0
+	"	6	0
+
+> ~/Projects/tomita/learn/imeni/config.proto
+	*	1568043538	0
+	"	7	0
+
+> ~/Projects/tomita/smart/tomato/screen.gzt
+	*	1568018530	0
+	"	1	0
+	^	6	33
+	.	6	32
+	+	6	53
+	+	6	32
+
+> ~/Projects/tomita/smart/tomato/request_types_dic.gzt
+	*	1568018524	0
+	"	8	0
+
+> ~/Projects/tomita/smart/tomato/num_dic.gzt
+	*	1568018518	0
+	"	4	0
+
+> ~/Projects/tomita/smart/tomato/dinamics_dic.gzt
+	*	1568018515	0
+	"	1	0
+
+> ~/Projects/tomita/smart/tomato/dic_concepts.gzt
+	*	1568018502	0
+	"	122	5
+
+> ~/Projects/tomita/smart/tomato/files/dimension_values/dimension_browserName_Mobile_Safari.txt
+	*	1567774642	0
+	"	7	0
+	.	8	0
+	+	7	31
+	+	8	0
+
+> ~/Projects/tomita/smart/tomato/files/dimension_values/dimension_browserName_Firefox.txt
+	*	1567774341	0
+	"	11	12
+	^	11	14
+	.	11	12
+	+	3	14
+	+	10	12
+	+	11	12
+
+> ~/Projects/tomita/smart/tomato/files/dimensions/dimension_semen_semenych_edet_na_more.txt
+	*	1567770753	0
+	"	1	46
+	^	1	48
+	.	1	46
+	+	1	46
+
+> /usr/share/vim/vim80/doc/windows.txt
+	*	1567758758	0
+	"	409	0
+
+> /usr/share/vim/vim80/doc/change.txt
+	*	1567691292	0
+	"	265	12
+
+> ~/Projects/tomita/smart/tomato/вопросы
+	*	1567689524	0
+	"	1	0
+	^	19	35
+	.	19	34
+	+	7	363
+	+	19	0
+	+	12	18
+	+	13	23
+	+	14	16
+	+	15	21
+	+	16	16
+	+	17	15
+	+	18	11
+	+	19	0
+	+	13	0
+	+	19	34
+
+> ~/Projects/tomita/smart/tomato/test
+	*	1567685135	0
+	"	1	0
+
+> ~/Projects/tomita/smart/tomato/testprotobuf.proto
+	*	1567683558	0
+	"	15	4
+	.	16	0
+	+	1	0
+	+	16	0
+
+> /usr/share/vim/vim80/doc/map.txt
+	*	1567682694	0
+	"	624	47
+
+> ~/.tmux.conf
+	*	1567680689	0
+	"	2	12
+	^	2	15
+	.	2	0
+	+	2	0
+
+> ~/Projects/tomita/smart/tomato/Tgrammar_extract_old.cxx
+	*	1567602364	0
+	"	1	0
+
+> ~/Projects/tomita/smart/tomato/Tgrammar_extract.cxx
+	*	1567602362	0
+	"	1	0
+	^	23	0
+	.	22	0
+	+	4	23
+	+	14	5
+	+	13	0
+	+	17	11
+	+	15	24
+	+	18	4
+	+	243	1
+	+	242	9
+	+	18	2
+	+	243	2
+	+	242	2
+	+	243	0
+	+	242	15
+	+	18	0
+	+	32	0
+	+	242	1
+	+	32	0
+	+	28	0
+	+	32	0
+	+	17	0
+	+	16	65
+	+	22	0
+
+> ~/Projects/tomita/smart/tomato/Tdic_main.cxx
+	*	1567602361	0
+	"	7	0
+	.	1	0
+	+	1	0
+
+> ~/Projects/tomita/smart/tomato/Troot_dic.gzt
+	*	1567602334	0
+	"	1	0
+	^	8	45
+	.	8	43
+	+	10	17
+	+	8	43
+
+> ~/Projects/tomita/smart/tomato/config.proto
+	*	1567592366	0
+	"	14	0
+	.	13	49
+	+	9	27
+	+	13	49
+
+> ~/.xbindkeysrc
+	*	1567524397	0
+	"	69	9
+	^	69	11
+	.	69	10
+	+	68	23
+	+	69	10
+
+> ~/.xbindkeysrc.scm
+	*	1567520055	0
+	"	103	0
+
+> ~/Projects/tomita/smart/tomato/Tconfig.proto
+	*	1567493235	0
+	"	1	0
+	^	13	45
+	.	13	43
+	+	13	43
+
+> ~/Projects/asm/hello
+	*	1567172964	0
+	"	1	0
+
+> ~/Projects/asm/hello.o
+	*	1567172326	0
+	"	1	0
+
+> ~/Projects/asm/hello.s
+	*	1567172269	0
+	"	1	0
+	^	18	21
+	.	18	20
+	+	1	82
+	+	1	0
+	+	1	73
+	+	2	0
+	+	18	20
+
+> ~/.vim/vimplug/vim-airline/plugin/airline.vim
+	*	1567099450	0
+	"	281	0
+
+> ~/Yandex.Disk/Notes/Strategy.md
+	*	1567098806	0
+	"	226	0
+	^	231	4
+	.	218	0
+	+	227	0
+	+	231	135
+	+	231	3
+	+	218	0
+
+> ~/Загрузки/yEd-3.19_with-JRE11_64-bit_setup.sh
+	*	1567081840	0
+	"	285	0
+
+> /etc/sddm.conf_orig
+	*	1567001512	0
+	"	3	8
+
+> /etc/sddm.conf
+	*	1567001510	0
+	"	3	3
+	^	3	10
+	.	3	9
+	+	3	0
+	+	4	0
+	+	3	9
+
+> ~/UTF-8-demo.txt
+	*	1566909059	0
+	"	212	0
+
+> ~/.Xmodmap
+	*	1566902096	0
+	"	1	0
