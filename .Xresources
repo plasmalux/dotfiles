@@ -1,6 +1,9 @@
 XTerm.termName: xterm-256color
 XTerm.vt100.saveLines: 10000
 XTerm.vt100.geometry: 120x25
-XTerm.vt100.allowBoldFonts: false
+#include "/home/sonic/data/xcolors/Xresources/Novel"
+XTerm*font: -misc-fixed-medium-r-normal-*-14-*-*-*-*-*-iso10646-*
+!XTerm.vt100.allowBoldFonts: false
+XTerm.vt100.cursorBlink: true
 !XTerm.vt100.reverseVideo: true
-#include "/home/sonic/data/xcolors/Xresources/Chalkboard"
+!#include "/home/sonic/data/xcolors/Xresources/gruvbox_dark"
