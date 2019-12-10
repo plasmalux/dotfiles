@@ -1,9 +1,11 @@
 XTerm.termName: xterm-256color
 XTerm.vt100.saveLines: 10000
 XTerm.vt100.geometry: 120x25
-#include "/home/sonic/data/xcolors/Xresources/Novel"
-XTerm*font: -misc-fixed-medium-r-normal-*-14-*-*-*-*-*-iso10646-*
-!XTerm.vt100.allowBoldFonts: false
-XTerm.vt100.cursorBlink: true
+#include "/home/sonic/data/xcolors/Xresources/Broadcast"
+!XTerm*font: -misc-fixed-medium-r-normal-*-14-*-*-*-*-*-iso10646-*
+!XTerm*font: -misc-*-*-*-normal-ja-18-*-100-100-c-180-iso10646-1
+XTerm*font: -misc-fixed-bold-r-normal-*-13-*-*-*-*-70-iso10646-1
+XTerm.vt100.allowBoldFonts: false
+XTerm.vt100.cursorBlink: false
 !XTerm.vt100.reverseVideo: true
-!#include "/home/sonic/data/xcolors/Xresources/gruvbox_dark"
+!#include "/home/sonic/data/xcolors/Xresources/gruvbox_dark Novel"

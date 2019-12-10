@@ -60,5 +60,7 @@ call plug#end()
 
 "*****************************************************************
 let g:airline_theme='ayu_mirage'
-colorscheme zellner
+colorscheme delek
 set showcmd
+" highlight ColorColumn ctermbg=Black
+" set colorcolumn=80
