@@ -1,11 +1,80 @@
 XTerm.termName: xterm-256color
 XTerm.vt100.saveLines: 10000
 XTerm.vt100.geometry: 120x25
-#include "/home/sonic/data/xcolors/Xresources/Broadcast"
-!XTerm*font: -misc-fixed-medium-r-normal-*-14-*-*-*-*-*-iso10646-*
-!XTerm*font: -misc-*-*-*-normal-ja-18-*-100-100-c-180-iso10646-1
-XTerm*font: -misc-fixed-bold-r-normal-*-13-*-*-*-*-70-iso10646-1
 XTerm.vt100.allowBoldFonts: false
 XTerm.vt100.cursorBlink: false
-!XTerm.vt100.reverseVideo: true
-!#include "/home/sonic/data/xcolors/Xresources/gruvbox_dark Novel"
+XTerm.vt100.reverseVideo: false
+
+! FONT:
+!
+! "7x13B" ("MISC-FIXED"):
+XTerm*font: -Misc-Fixed-Bold-R-Normal--13-120-75-75-C-70-ISO10646-1
+
+! COLOR THEME:
+!
+! #include "/home/sonic/data/xcolors/Xresources/Broadcast"
+! Generated with XRDB2Xreources.py
+! "Broadcast" color theme:
+!
+*.foreground:  #e6e1dc
+*.background:  #2b2b2b
+*.cursorColor: #ffffff
+! Black:
+*.color0:      #000000
+*.color8:      #323232
+! Red:
+*.color1:      #da4939
+*.color9:      #ff7b6b
+! Green:
+*.color2:      #519f50
+*.color10:     #83d182
+! Yellow:
+*.color3:      #ffd24a
+*.color11:     #ffff7c
+! Blue:
+*.color4:      #6d9cbe
+*.color12:     #9fcef0
+! Magenta:
+*.color5:      #d0d0ff
+*.color13:     #ffffff
+! Cyan:
+*.color6:      #6e9cbe
+*.color14:     #a0cef0
+! White:
+*.color7:      #ffffff
+*.color15:     #ffffff
+! Bold, Italic, Underline:
+*.colorBD:     #e6e1dc
+!*.colorIT:
+!*.colorUL:
+
+!"MISC-FIXED" FONTS:
+!
+!https://en.wikipedia.org/wiki/Fixed_(typeface)
+!https://en.wikipedia.org/wiki/X_logical_font_description
+!https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html <- Markus Kuhn page (расширил fixed)
+!
+!5x7		-Misc-Fixed-Medium-R-Normal--7-70-75-75-C-50-ISO10646-1
+!5x8		-Misc-Fixed-Medium-R-Normal--8-80-75-75-C-50-ISO10646-1
+!6x9		-Misc-Fixed-Medium-R-Normal--9-90-75-75-C-60-ISO10646-1
+!6x10		-Misc-Fixed-Medium-R-Normal--10-100-75-75-C-60-ISO10646-1
+!6x12		-Misc-Fixed-Medium-R-Semicondensed--12-110-75-75-C-60-ISO10646-1
+!6x13		-Misc-Fixed-Medium-R-SemiCondensed--13-120-75-75-C-60-ISO10646-1
+!6x13B		-Misc-Fixed-Bold-R-SemiCondensed--13-120-75-75-C-60-ISO10646-1
+!6x13O		-Misc-Fixed-Medium-O-SemiCondensed--13-120-75-75-C-60-ISO10646-1
+!7x13		-Misc-Fixed-Medium-R-Normal--13-120-75-75-C-70-ISO10646-1
+!7x13B		-Misc-Fixed-Bold-R-Normal--13-120-75-75-C-70-ISO10646-1
+!7x13O		-Misc-Fixed-Medium-O-Normal--13-120-75-75-C-70-ISO10646-1
+!7x14		-Misc-Fixed-Medium-R-Normal--14-130-75-75-C-70-ISO10646-1
+!7x14B		-Misc-Fixed-Bold-R-Normal--14-130-75-75-C-70-ISO10646-1
+!8x13		-Misc-Fixed-Medium-R-Normal--13-120-75-75-C-80-ISO10646-1
+!8x13B		-Misc-Fixed-Bold-R-Normal--13-120-75-75-C-80-ISO10646-1
+!8x13O		-Misc-Fixed-Medium-O-Normal--13-120-75-75-C-80-ISO10646-1
+!9x15		-Misc-Fixed-Medium-R-Normal--15-140-75-75-C-90-ISO10646-1
+!9x15B		-Misc-Fixed-Bold-R-Normal--15-140-75-75-C-90-ISO10646-1
+!9x18		-Misc-Fixed-Medium-R-Normal--18-120-100-100-C-90-ISO10646-1
+!9x18B		-Misc-Fixed-Bold-R-Normal--18-120-100-100-C-90-ISO10646-1
+!10x20		-Misc-Fixed-Medium-R-Normal--20-200-75-75-C-100-ISO10646-1
+!12x13ja	-Misc-Fixed-Medium-R-Normal-ja-13-120-75-75-C-120-ISO10646-1
+!18x18ja	-Misc-Fixed-Medium-R-Normal-ja-18-120-100-100-C-180-ISO10646-1
+!18x18ko	-Misc-Fixed-Medium-R-Normal-ko-18-120-100-100-C-180-ISO10646-1

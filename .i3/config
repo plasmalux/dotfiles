@@ -44,10 +44,14 @@ bindsym $mod+d exec dmenu_run
 # bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
 
 # change focus
-bindsym $mod+j focus left
-bindsym $mod+k focus down
-bindsym $mod+l focus up
-bindsym $mod+semicolon focus right
+#bindsym $mod+j focus left
+#bindsym $mod+k focus down
+#bindsym $mod+l focus up
+#bindsym $mod+semicolon focus right
+bindsym $mod+h focus left
+bindsym $mod+j focus down
+bindsym $mod+k focus up
+bindsym $mod+l focus right
 
 # alternatively, you can use the cursor keys:
 bindsym $mod+Left focus left
@@ -56,10 +60,14 @@ bindsym $mod+Up focus up
 bindsym $mod+Right focus right
 
 # move focused window
-bindsym $mod+Shift+j move left
-bindsym $mod+Shift+k move down
-bindsym $mod+Shift+l move up
-bindsym $mod+Shift+semicolon move right
+#bindsym $mod+Shift+j move left
+#bindsym $mod+Shift+k move down
+#bindsym $mod+Shift+l move up
+#bindsym $mod+Shift+semicolon move right
+bindsym $mod+Shift+h move left
+bindsym $mod+Shift+j move down
+bindsym $mod+Shift+k move up
+bindsym $mod+Shift+l move right
 
 # alternatively, you can use the cursor keys:
 bindsym $mod+Shift+Left move left
@@ -68,7 +76,7 @@ bindsym $mod+Shift+Up move up
 bindsym $mod+Shift+Right move right
 
 # split in horizontal orientation
-bindsym $mod+h split h
+bindsym $mod+o split h
 
 # split in vertical orientation
 bindsym $mod+v split v
@@ -161,11 +169,11 @@ bar {
 #######################################################################
 exec nm-applet &
 hide_edge_borders both
-for_window [class="^.*"] border pixel 0
+#for_window [class="^.*"] border pixel 0
 exec xrdb .Xresources
-exec xrandr --output eDP-1 --brightness 0.8
+exec xrandr --output eDP-1 --brightness 0.9
 exec xset -dpms # disable monitor off 
 exec xset s off # disable screensaver
 #bindsym $mod+Escape exec setxkbmap ru
-bindsym Control+backslash exec setxkbmap ru phonetic
-bindsym Control+Escape exec setxkbmap us
+#bindsym Control+backslash exec setxkbmap ru phonetic
+#bindsym Control+Escape exec setxkbmap us
