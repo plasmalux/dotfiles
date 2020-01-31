@@ -54,6 +54,7 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'junegunn/goyo.vim'
 Plug 'uarun/vim-protobuf'
 Plug 'rominf/tomita.vim'
+Plug 'davidhalter/jedi-vim'
 
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
