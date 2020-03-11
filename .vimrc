@@ -64,4 +64,6 @@ let g:airline_theme='ayu_mirage'
 colorscheme delek
 set showcmd
 " highlight ColorColumn ctermbg=Black
+set listchars=eol:¬,tab:>·,trail:~,extends:>,precedes:<,space:␣
+highlight SpecialKey ctermfg=Black
 " set colorcolumn=80
